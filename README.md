@@ -1,35 +1,9 @@
-# Extract APIs from any URL:
+# Automated API-End Points accessibility checker
 
-This Python script extracts all the URLs (APIs) from a given website.
+My project can verify the accessibility of APIs or end-points behind the base URL/IP user provides and watch as our system meticulously examines each embedded APIs or end points concurrently. Also gives a report to ensuring a smooth digital journey for you and your developer team.
+After smoothly examine all the APIs it will give a report where all the details will be there, Also developer can download a text file containing all the information.
 
-It uses `requests` libraries to make HTTP requests.
+### My product can replace PostMan Software and other softwares like these on the market.
 
-The code is well-documented with detailed docstrings explaining each method.
+Feel free to ask me, I can show you.
 
-I made this code dynamic and so easy that anyone can understand!!
-
-### Requirements:
-1. Python
-2. requests library :  Simplifies the process of making HTTP requests
-3. re library : for regular expression
-
-```python
-import requests
-import re
-
-url = input("Enter a url: ")
-
-response = requests.get(url)
-
-print("Status Code:", response.status_code)
-
-html_data = response.text 
-
-url_pattern = re.compile(r'https?://\S+')
-
-urls = url_pattern.findall(html_data)
-
-for url in urls:
-    print(url)
-
-``` 
