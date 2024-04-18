@@ -12,8 +12,16 @@ This is the front page:
 This is the result page:
 ![process_input](https://github.com/akashsarkar1998/Scraping-API-from-a-url/assets/32842719/f7b4de14-d300-4aea-9ec3-182774f5111d)
 
-This is result: (As I used Facebook.com)
-![Generated_report](https://github.com/akashsarkar1998/Scraping-API-from-a-url/assets/32842719/be881dd5-2b06-48f8-849c-57d2bcf80771)
+This is result:
+![Generated_report]
+![screencapture-127-0-0-1-8000-static-Dbug-html-2024-04-16-19_35_44](https://github.com/akashsarkar1998/Automated-API-End-Points-accessibility-checker/assets/32842719/ff04dc70-f3cb-453a-9104-856dc0046b57)
+![screencapture-127-0-0-1-8000-static-Dbug-html-2024-04-18-16_10_39](https://github.com/akashsarkar1998/Automated-API-End-Points-accessibility-checker/assets/32842719/9321a45a-32f2-4d40-ae29-3cdf00297a72)
+![screencapture-127-0-0-1-8000-static-Dbug-html-2024-04-18-16_10_12](https://github.com/akashsarkar1998/Automated-API-End-Points-accessibility-checker/assets/32842719/58a7bb1e-b566-4dea-a932-1d3b537524cb)
+![screencapture-127-0-0-1-8000-static-Dbug-html-2024-04-18-14_09_12](https://github.com/akashsarkar1998/Automated-API-End-Points-accessibility-checker/assets/32842719/374a02e2-2142-4b6f-8986-ef024dce0bdc)
+![screencapture-127-0-0-1-8000-static-Dbug-html-2024-04-16-22_07_36](https://github.com/akashsarkar1998/Automated-API-End-Points-accessibility-checker/assets/32842719/882a6a5a-806f-43d2-b572-a48bf0563e46)
+![screencapture-127-0-0-1-8000-static-Dbug-html-2024-04-16-22_06_16](https://github.com/akashsarkar1998/Automated-API-End-Points-accessibility-checker/assets/32842719/23a29e92-7308-4a61-b18e-b4e80fd2b700)
+![screencapture-127-0-0-1-8000-static-Dbug-html-2024-04-16-19_55_56](https://github.com/akashsarkar1998/Automated-API-End-Points-accessibility-checker/assets/32842719/ca5e7c4f-ff52-490c-953d-e603cf4a81d7)
+
 
 Giving feedback:
 ![while_submitting_feedback](https://github.com/akashsarkar1998/Scraping-API-from-a-url/assets/32842719/4d73e5c2-32b8-4375-a850-9c1b46b7f218)
